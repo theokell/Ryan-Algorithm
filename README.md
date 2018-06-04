@@ -1,1 +1,1 @@
-"# Ryan-Algorithm" 
+"Calculates" ryan's arrival time to the lab
